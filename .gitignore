@@ -13,3 +13,7 @@ wheels/
 .DS_Store
 .venv
 .vscode
+
+# Data folders
+data/raw/*
+!data/raw/.gitkeep
